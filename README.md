@@ -1,7 +1,10 @@
 
 # DIO | Versionamento de código com Git e GitHub
 
-Reposiotório para armazaenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
+Curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
+
+##  📊 Objetivo
+Documentar meu aprendizado em Versionamento de Código
 
 ## 📃 Documentação
 - [Documentação Git](https://git-scm.com/doc)
@@ -15,11 +18,12 @@ Reposiotório para armazaenar resumos sobre Git e GitHub do curso Versionamento 
 | 02 | Primeiros Passos com Git e GitHub | [Resumo](https://github.com/JhonKb/dio-curso-git-github/blob/main/resumos/02-primeiros-passos-com-git-e-github.md) |
 
 
-## 👨‍💻 Comandos Úteis do Prompt
+## 👨‍💻 Comandos Úteis do Terminal
 
 Lista o conteúdo do caminho atual ou de um caminho específico
 ```
 ls
+ou
 ls caminho
 ```
 
@@ -63,4 +67,4 @@ rm -rf pasta
 ```
 
 ## 🔍 Referências
-- [Digital Innovation One](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/santander-bootcamp-2023-backend-java&tab=undefined&moduleId=undefined)
+- [Digital Innovation One - Versionamento de código com Git e GitHub](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066)
