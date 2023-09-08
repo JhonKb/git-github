@@ -68,3 +68,4 @@ rm -rf pasta
 
 ## 🔍 Referências
 - [Digital Innovation One - Versionamento de código com Git e GitHub](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066)
+- [Elidiana Andrade - Repositório](https://github.com/elidianaandrade/dio-curso-git-github/tree/main#instrutora)
