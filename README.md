@@ -20,52 +20,66 @@ Documentar meu aprendizado em Versionamento de Código
 
 ## 👨‍💻 Comandos Úteis do Terminal
 
-Lista o conteúdo do caminho atual ou de um caminho específico
-```
-ls
-ou
-ls caminho
-```
+- Listando o conteúdo:
+ 
+  ```bash
+  $ ls
+  ```
+  ou
+  ```bash
+  $ ls exemplo/arquivo.pfx
+  ```
 
-Entra na pasta ou arquivo escolhido:
-```
-cd pasta
-ou
-cd arquivo
-```
+- Entrando na pasta ou arquivo:
+  
+  ```bash
+  $ cd pasta
+  ```
+  ou
+  ```bash
+  $ cd arquivo.pfx
+  ```
 
-Volta para o caminho anterior:
-```
-cd .. 
-```
+- Voltando para o caminho anterior:
+  
+  ```bash
+  $ cd .. 
+  ```
 
-Cria uma nova pasta:
-```
-mkdir nome-pasta
-```
+- Criando uma nova pasta:
+  
+  ```
+  $ mkdir nome-pasta
+  ```
 
-Cria um novo arquivo:
-```
-touch arquivo
-```
+- Criando um novo arquivo:
+  
+  ```
+  $ touch arquivo
+  ```
 
-Exibe o conteúdo do arquivo:
-```
-cat arquivo
-```
+- Exibindo o conteúdo do arquivo:
+  
+  ```
+  cat arquivo
+  ```
 
-Adiciona um texto a um arquivo:
-```
-echo "mensagem" > arquivo
-```
+- Adicionando um texto à um arquivo:
+  
+  ```
+  echo "mensagem" > arquivo
+  ```
 
-Delete um arquivo ou pasta:
-```
-rm -rf arquivo
-ou
-rm -rf pasta
-```
+- Deletando um arquivo ou pasta:
+  
+  ```
+  rm -rf arquivo
+  ```
+  ou
+  ```
+  rm -rf pasta
+  ```
 
 ## 🔍 Referências
 - [Digital Innovation One - Versionamento de código com Git e GitHub](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066)
-- [Elidiana Andrade - Repositório](https://github.com/elidianaandrade/dio-curso-git-github)
+- [Repositório do Curso - by Elidiana Andrade](https://github.com/elidianaandrade/dio-curso-git-github)
