@@ -3,12 +3,18 @@
 
 Curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 
+##
+
 ##  📊 Objetivo
 Documentar meu aprendizado em Versionamento de Código
+
+##
 
 ## 📃 Documentação
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://dos.github.com/)
+
+##
 
 ## 💻 Resumos da Aulas
 
