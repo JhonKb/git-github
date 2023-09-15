@@ -59,7 +59,7 @@ $ git config --global init.defaultBranch main
 ```
 ## 
 
-### Atutenticando via Token
+### Autenticando via Token
 
 - Para gerar um novo token, acesse: https://github.com/settings/tokens/new 
 - Copie o token e salve em um local seguro;
