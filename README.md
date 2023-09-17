@@ -27,16 +27,28 @@ Documentar meu aprendizado em Versionamento de Código
 
 ## 👨‍💻 Comandos Úteis do Terminal (Git Bash)
 
-- Listando o conteúdo:
+- Listando o conteúdo do diretório atual:
  
   ```bash
   $ ls -als
   ```
 
-- Entrando na pasta ou arquivo:
+- Listando o conteúdo de um diretório espeífico:
+ 
+  ```bash
+  $ ls nome-diretório
+  ```
+
+- Listando conteúdo do arquivo:
+  
+  ```
+  $ cat nome.arquivo
+  ```
+
+- Entrando na diretório ou arquivo:
   
   ```bash
-  $ cd nome-pasta
+  $ cd nome-diretório
   ```
   ou
   ```bash
@@ -49,10 +61,10 @@ Documentar meu aprendizado em Versionamento de Código
   $ cd .. 
   ```
 
-- Criando uma nova pasta:
+- Criando uma nova diretório:
   
   ```
-  $ mkdir nome-pasta
+  $ mkdir nome-diretório
   ```
 
 - Criando um novo arquivo:
@@ -61,26 +73,20 @@ Documentar meu aprendizado em Versionamento de Código
   $ touch nome.arquivo
   ```
 
-- Exibindo o conteúdo do arquivo:
-  
-  ```
-  $ cat nome.arquivo
-  ```
-
 - Adicionando um texto à um arquivo:
   
   ```
   $ echo "mensagem" > nome.arquivo
   ```
 
-- Deletando um arquivo ou pasta:
+- Deletando um arquivo ou diretório:
   
   ```
   $ rm -rf nome.arquivo
   ```
   ou
   ```
-  $ rm -rf nome-pasta
+  $ rm -rf nome-diretório
   ```
 
 ##
