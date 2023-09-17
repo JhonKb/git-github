@@ -25,16 +25,12 @@ Documentar meu aprendizado em Versionamento de Código
 
 ##
 
-## 👨‍💻 Comandos Úteis do Terminal
+## 👨‍💻 Comandos Úteis do Terminal (Git Bash)
 
 - Listando o conteúdo:
  
   ```bash
-  $ ls
-  ```
-  ou
-  ```bash
-  $ ls exemplo/arquivo.pfx
+  $ ls -als
   ```
 
 - Entrando na pasta ou arquivo:
@@ -44,7 +40,7 @@ Documentar meu aprendizado em Versionamento de Código
   ```
   ou
   ```bash
-  $ cd arquivo.pfx
+  $ cd exemplo.arquivo
   ```
 
 - Voltando para o caminho anterior:
@@ -80,7 +76,7 @@ Documentar meu aprendizado em Versionamento de Código
 - Deletando um arquivo ou pasta:
   
   ```
-  rm -rf arquivo
+  rm -rf exemplo.arquivo
   ```
   ou
   ```
