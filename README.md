@@ -36,11 +36,11 @@ Documentar meu aprendizado em Versionamento de Código
 - Entrando na pasta ou arquivo:
   
   ```bash
-  $ cd pasta
+  $ cd nome-pasta
   ```
   ou
   ```bash
-  $ cd exemplo.arquivo
+  $ cd nome.arquivo
   ```
 
 - Voltando para o caminho anterior:
@@ -58,29 +58,29 @@ Documentar meu aprendizado em Versionamento de Código
 - Criando um novo arquivo:
   
   ```
-  $ touch arquivo
+  $ touch nome.arquivo
   ```
 
 - Exibindo o conteúdo do arquivo:
   
   ```
-  cat arquivo
+  $ cat nome.arquivo
   ```
 
 - Adicionando um texto à um arquivo:
   
   ```
-  echo "mensagem" > arquivo
+  $ echo "mensagem" > nome.arquivo
   ```
 
 - Deletando um arquivo ou pasta:
   
   ```
-  rm -rf exemplo.arquivo
+  $ rm -rf nome.arquivo
   ```
   ou
   ```
-  rm -rf pasta
+  $ rm -rf nome-pasta
   ```
 
 ##
