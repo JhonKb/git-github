@@ -63,13 +63,8 @@ $ git config --global init.defaultBranch main
 
 - Para gerar um novo token, acesse: https://github.com/settings/tokens/new 
 - Copie o token e salve em um local seguro;
-- Clone o repositório remoto com a URL HTTPS:
-
-    ```bash
-    $ git clone URL
-    ```
-- Selecione a opção token;
-- Cole o token e realize a autenticação;
+- Tente clonar o repositório remoto com a URL HTTPS:
+- Selecione a opção token e relize a autenticação;
 - Defina uma credencial:
 
     ```bash
