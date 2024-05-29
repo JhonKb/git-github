@@ -1,7 +1,7 @@
 
-# DIO | Versionamento de código com Git e GitHub
+# Versionamento com Git e GitHub
 
-Curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
+Introdução a Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 
 ##
 
@@ -93,6 +93,6 @@ Documentar meu aprendizado em Versionamento de Código
 
 ## 🔍 Referências
 - [Digital Innovation One - Versionamento de código com Git e GitHub](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066)
-- [Repositório do Curso - by Elidiana Andrade](https://github.com/elidianaandrade/dio-curso-git-github)
+- [Repositório - by Elidiana Andrade](https://github.com/elidianaandrade/dio-curso-git-github)
   
 ##
