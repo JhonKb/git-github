@@ -1,7 +1,7 @@
 
 # Versionamento com Git e GitHub
 
-Introdução a Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
+Introdução a Versionamento de Código com Git e GitHub.
 
 ##
 
