@@ -1,5 +1,5 @@
 
-# DIO | Versionamento de código com Git e GitHub
+# Versionamento com Git e GitHub
 
 ## Intalação, Connfiguração e Autenticação
 
