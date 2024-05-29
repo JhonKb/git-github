@@ -1,5 +1,5 @@
 
-# DIO | Versionamento de código com Git e GitHub
+# Versionamento de código com Git e GitHub
 
 ## Criando e Clonando Repositórios
 
